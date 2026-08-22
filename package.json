@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/markistaylor/webpack-react-component-boilerplate",
   "dependencies": {
-    "react": "^0.14.3",
+    "react": "^15.0.0",
     "react-dom": "^0.14.3"
   },
   "devDependencies": {
